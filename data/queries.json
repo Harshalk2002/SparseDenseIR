@@ -1,0 +1,42 @@
+[
+  {
+    "qid": "q00",
+    "query": "How do wind and offshore impact renewable energy?"
+  },
+  {
+    "qid": "q01",
+    "query": "How do cohort and LTV impact e-commerce analytics?"
+  },
+  {
+    "qid": "q02",
+    "query": "How do EHR and radiology impact healthcare AI?"
+  },
+  {
+    "qid": "q03",
+    "query": "How do beta and stocks impact finance & markets?"
+  },
+  {
+    "qid": "q04",
+    "query": "How do micromobility and transit impact urban mobility?"
+  },
+  {
+    "qid": "q05",
+    "query": "How do possession and defense impact sports analytics?"
+  },
+  {
+    "qid": "q06",
+    "query": "How do course and grading impact education tech?"
+  },
+  {
+    "qid": "q07",
+    "query": "How do phishing and zero-day impact cybersecurity?"
+  },
+  {
+    "qid": "q08",
+    "query": "How do Kubernetes and scalability impact cloud computing?"
+  },
+  {
+    "qid": "q09",
+    "query": "How do adaptation and policy impact climate change?"
+  }
+]
